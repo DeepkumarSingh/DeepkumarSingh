@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DeepkumarSingh
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning DSA | JAVA | C++
+👋 Hi, I’m Deep kumar
+👀 I’m interested in Coding 
+🌱 Now I’m currently learning DSA | C++ | JAVA 
  
 
 <!---
