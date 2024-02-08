@@ -1,6 +1,6 @@
-👋 Hi, I’m Deep kumar
-👀 I’m interested in Coding 
-🌱 Now I’m currently learning DSA | C++ | JAVA 
+👋 I’m Deep kumar
+👀 Tech Enthusiastic |  
+I'm currently doing my Bachelors in Technology in Computer Science. I'm always looking forward to work with others and learn along.
  
 
 <!---
