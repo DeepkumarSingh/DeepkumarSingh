@@ -3,7 +3,6 @@
 
 
 
-![Uploading maypunk.gif…]()
 
 
 
