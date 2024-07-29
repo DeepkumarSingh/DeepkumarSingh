@@ -1,4 +1,4 @@
-<img width="1200" src="https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/main/img/maypunk.gif" align="center">
+<img width="1200" src="https://shorturl.at/Gd8lb" align="center">
 <h1 align="center">Hi 👋, I'm Deep Kumar</h1>
 <h3 align="center">Code hard, play hard 🤘💻🎮</h3>
 
@@ -10,7 +10,7 @@
 
 - 💬 **Tech Enthusiastic**
 
-- ⚡Don't Forget semicolon on your Code
+- ⚡Don't Forget the semicolon(;) on your Code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
