@@ -10,7 +10,7 @@
 
 - 💬 **Tech Enthusiastic**
 
-- ⚡Don't Forget the semicolon(;) on your Code
+- ⚡Don't Forget the ; on your Code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
