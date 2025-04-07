@@ -1,4 +1,4 @@
-<img width="1200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpienF2NXV5YmtjY3p2dXA1bWd3YnVwbmd6aW8xOHdubW85azdraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height=500>
+<img width="1200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpienF2NXV5YmtjY3p2dXA1bWd3YnVwbmd6aW8xOHdubW85azdraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height=300 width=300>
 <h1 align="center">Hi 👋, I'm Deep Kumar</h1>
 <h3 align="center">Code hard, play hard 🤘💻🎮</h3>
 
