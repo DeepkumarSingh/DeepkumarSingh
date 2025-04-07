@@ -6,8 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepkumarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="deepkumarsingh" /> </p>
 
-- 🌱 Skills- C++ , DSA , JAVA , HTML , CSS , JavaScript ...
-
+- 🌱 Skills- C++ , Data Structure & Algorithms , JAVA
+- 🧑‍💻 frontend - HTML , CSS , JavaScript , React , Bootstrap
+- 🧑‍💻 Backend - Node.js, Express.js, Mongoose/MongoDB, .. 
 - 💬 **Tech Enthusiastic**
 
 - ⚡Don't Forget the ; on your Code
