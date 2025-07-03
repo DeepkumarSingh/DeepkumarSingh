@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/deep-kumar-081784222/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/deepkumarsingh0611" target="_blank">
+  <a href="https://leetcode.com/u/DeepkumarSingh0611/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/deep0v5ay/" target="_blank">
@@ -39,7 +39,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Programming Languages -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -56,7 +55,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
-  <!-- Frameworks and Libraries -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -70,7 +68,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
 
-  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -93,9 +90,23 @@
   </a>
 </p>
 
+<div align="center"> 
+<h2 align="center">Leetcode Badges<h2>  
+<p align="left">
+  <a href="https://leetcode.com/u/DeepkumarSingh0611/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepkumarsingh&show_icons=true&locale=en&layout=compact" alt="deepkumarsingh" /></p>
+## 📊 GitHub Summary Cards
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepkumarsingh&show_icons=true&locale=en" alt="deepkumarsingh" /></p>
+<!-- Row 1 -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepkumarSingh&theme=midnight_purple" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepkumarSingh&theme=midnight_purple" width="45%" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepkumarsingh&" alt="deepkumarsingh" /></p>
+<!-- Row 2 -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepkumarSingh&theme=midnight_purple" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepkumarSingh&theme=midnight_purple&utcOffset=5.5" width="45%" />
+</p>
+
+
